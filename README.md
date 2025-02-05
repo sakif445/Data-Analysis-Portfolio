@@ -14,7 +14,7 @@ In this section, I will list data analytics projects briefly describing the tech
 
 Portfolio Projects
 
-Analyzing Customer Segmentation and Revenue Optimization Through Data Insights
+Optimizing Customer Segmentation and Revenue Growth Using RFM Analysis and Tableau Dashboards
 
 Code: Data_Analytics_Consulting_Virtual_Internship.ipynb
 
