@@ -12,9 +12,9 @@ Portfolio Projects
 
 In this section, I will list data analytics projects briefly describing the technology stack used to solve cases.
 
-Python
+Portfolio Projects
 
-Data Analytics Consulting Virtual Internship
+Analyzing Customer Segmentation and Revenue Optimization Through Data Insights
 
 Code: Data_Analytics_Consulting_Virtual_Internship.ipynb
 
@@ -24,9 +24,7 @@ Skills: Data cleaning, customer segmentation, RFM analysis, data visualization.
 
 Technology: Python, Pandas, Tableau.
 
-SQL
-
-Ulster University Data Analysis Project
+Leveraging SQL and Power BI for Data-Driven Sales Insights and Performance Optimization
 
 Code: Ulster_University_Data_Analysis_Project.sql
 
