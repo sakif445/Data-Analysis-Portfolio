@@ -34,7 +34,7 @@ In this section, I will list data analytics projects briefly describing the tech
 
 **Skills**: SQL queries, data cleaning, data visualization.
 
-**Technology**: SQL Server, Power BI.
+**Technology**: SQL Server, Excel, Power BI.
 
 
 ## **Education**
