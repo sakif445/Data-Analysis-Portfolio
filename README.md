@@ -6,7 +6,7 @@ Hi, I'm Sakif! I have an analytical background in International Business with Da
 
 During my studies and work experience, I honed my ability to work with complex data and developed a keen eye for identifying patterns and trends. I also gained experience in data management, statistical analysis, and business development, which I believe will be valuable assets in my role as a data specialist.
 
-[My CV in pdf.](https://github.com/sakif445/Data-Analysis-Portfolio/blob/main/MD%20SAKIF%20HOSSAIN%20CV.pdf)
+My CV in [pdf](https://github.com/sakif445/Data-Analysis-Portfolio/blob/main/MD%20SAKIF%20HOSSAIN%20CV.pdf).
 
 This is a repository to showcase skills, share projects, and track my progress in Data Analytics topics.
 
