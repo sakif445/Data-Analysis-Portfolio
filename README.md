@@ -53,7 +53,7 @@ Bachelor of Business Administration (BBA) - Independent University, Bangladesh (
 
 ## **Contact**
 
-LinkedIn: linkedin.com/in/sakif-hossain-b4610495
+LinkedIn: [Sakif Hossain](https://www.linkedin.com/in/sakif-hossain-b4610495/)
 
 Email: sakif_hossain@yahoo.com
 
