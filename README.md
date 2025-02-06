@@ -6,7 +6,16 @@ Hi, I'm Sakif! I have an analytical background in International Business with Da
 
 During my studies and work experience, I honed my ability to work with complex data and developed a keen eye for identifying patterns and trends. I also gained experience in data management, statistical analysis, and business development, which I believe will be valuable assets in my role as a data specialist.
 
-This is a repository to showcase skills, share projects, and track my progress in Data Analytics / Data Science-related topics.
+This is a repository to showcase skills, share projects, and track my progress in Data Analytics topics.
+
+## 📑 Table of Contents
+- [About](#about)
+- [Portfolio Projects](#portfolio-projects)
+  - [Optimizing Customer Segmentation and Revenue Growth Using RFM Analysis and Tableau Dashboards](#optimizing-customer-segmentation-and-revenue-growth-using-rfm-analysis-and-tableau-dashboards)
+- [Education](#education)
+- [Certificates](#certificates)
+- [Contact](#contact)
+
 
 ## **Portfolio Projects**
 
