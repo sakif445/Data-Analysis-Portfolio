@@ -1,6 +1,6 @@
-MD SAKIF HOSSAIN - Data Analyst Portfolio
+# **MD SAKIF HOSSAIN - Data Analyst Portfolio**
 
-About
+### **About**
 
 Hi, I'm Sakif! I have an analytical background in International Business with Data Analytics. I have developed a strong foundation in data analysis and a passion for using data to uncover meaningful insights. I am excited to bring my technical and analytical skills to the field of data analytics as an entry-level data specialist.
 
@@ -8,45 +8,50 @@ During my studies and work experience, I honed my ability to work with complex d
 
 This is a repository to showcase skills, share projects, and track my progress in Data Analytics / Data Science-related topics.
 
-Portfolio Projects
+## **Portfolio Projects**
 
 In this section, I will list data analytics projects briefly describing the technology stack used to solve cases.
 
-Portfolio Projects
 
-Optimizing Customer Segmentation and Revenue Growth Using RFM Analysis and Tableau Dashboards
+## **Optimizing Customer Segmentation and Revenue Growth Using RFM Analysis and Tableau Dashboards**
 
-Code: Data_Analytics_Consulting_Virtual_Internship.ipynb
+**Code**: [Data_Analytics_Consulting_Virtual_Internship.ipynb](https://github.com/sakif445/Project-Kpmg/blob/main/Project%20kpmg/data%20clean%20and%20analysis.ipynb)
 
-Description: Cleaned over 10,000 data entries using Python, ensuring data quality. Performed RFM analysis on 50,000+ transactions for customer segmentation and extracted insights for strategic decision-making.
+**Tableau Dashboard**:[Dashboard](https://github.com/sakif445/Project-Kpmg/blob/main/Project%20kpmg/Dashboard.twb)
 
-Skills: Data cleaning, customer segmentation, RFM analysis, data visualization.
+**Description**: Cleaned over 10,000 data entries using Python, ensuring data quality. Performed RFM analysis on 50,000+ transactions for customer segmentation and extracted insights for strategic decision-making.
 
-Technology: Python, Pandas, Tableau.
+**Skills**: Data cleaning, customer segmentation, RFM analysis, data visualization.
 
-Leveraging SQL and Power BI for Data-Driven Sales Insights and Performance Optimization
+**Technology**: Python, Pandas, Tableau.
 
-Code: Ulster_University_Data_Analysis_Project.sql
 
-Description: Retrieved over 25,000 records across 10 tables using SQL, ensuring data quality by preprocessing and removing duplicates. Designed and developed interactive Power BI dashboards featuring 20+ visualisations for effective communication of KPIs.
+## **Leveraging SQL and Power BI for Data-Driven Sales Insights and Performance Optimization**
 
-Skills: SQL queries, data cleaning, data visualization.
+**Microsoft Power BI**: [Dashboard](https://github.com/sakif445/Project-walmart/blob/main/Project%20walmart/Dashboard%20Walmart%20Project.pbix)
 
-Technology: SQL Server, Power BI.
+**Description**: Retrieved over 25,000 records across 10 tables using SQL, ensuring data quality by preprocessing and removing duplicates. Designed and developed interactive Power BI dashboards featuring 20+ visualisations for effective communication of KPIs.
 
-Education
+**Skills**: SQL queries, data cleaning, data visualization.
+
+**Technology**: SQL Server, Power BI.
+
+
+## **Education**
 
 Master's in International Business with Data Analytics - Ulster University, United Kingdom (2023)
 
 Bachelor of Business Administration (BBA) - Independent University, Bangladesh (2018)
 
-Certificates
+
+## **Certificates**
 
 Google Data Analytics Professional Certificate – Google (May 2024)
 
 Data Analytics Consulting Virtual Internship – Forage (October 2023)
 
-Contact
+
+## **Contact**
 
 LinkedIn: linkedin.com/in/sakif-hossain-b4610495
 
