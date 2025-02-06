@@ -26,7 +26,7 @@ In this section, I will list data analytics projects briefly describing the tech
 **Technology**: Python, Pandas, Tableau.
 
 
-## **Driving Sales Growth Through Data Insights and Strategic AnalysisDriving Sales Growth Through Data Insights and Strategic Analysis**
+## **Driving Sales Growth Through Data Insights and Strategic Analysis**
 
 **Microsoft Power BI**: [Dashboard](https://github.com/sakif445/Project-walmart/blob/main/Project%20walmart/Dashboard%20Walmart%20Project.pbix)
 
