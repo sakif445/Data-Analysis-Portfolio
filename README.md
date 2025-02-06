@@ -17,7 +17,7 @@ In this section, I will list data analytics projects briefly describing the tech
 
 **Code**: [Data_Analytics_Consulting_Virtual_Internship.ipynb](https://github.com/sakif445/Project-Kpmg/blob/main/Project%20kpmg/data%20clean%20and%20analysis.ipynb)
 
-**Tableau Dashboard**:[Dashboard](https://github.com/sakif445/Project-Kpmg/blob/main/Project%20kpmg/Dashboard.twb)
+**Tableau Dashboard**: [Dashboard](https://github.com/sakif445/Project-Kpmg/blob/main/Project%20kpmg/Dashboard.twb)
 
 **Description**: Cleaned over 10,000 data entries using Python, ensuring data quality. Performed RFM analysis on 50,000+ transactions for customer segmentation and extracted insights for strategic decision-making.
 
@@ -46,16 +46,14 @@ Bachelor of Business Administration (BBA) - Independent University, Bangladesh (
 
 ## **Certificates**
 
-Google Data Analytics Professional Certificate – Google (May 2024)
+[Google Data Analytics Professional Certificate – Google (May 2024)}](https://www.coursera.org/account/accomplishments/specialization/HQ8DL679LKRL)
 
-Data Analytics Consulting Virtual Internship – Forage (October 2023)
+[Data Analytics Consulting Virtual Internship – Forage (October 2023)](https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/KPMG%20AU/m7W4GMqeT3bh9Nb2c_KPMG%20AU_eoxi3rvsEs8oDvnDA_1696992419807_completion_certificate.pdf)
 
 
 ## **Contact**
 
 LinkedIn: linkedin.com/in/sakif-hossain-b4610495
-
-GitHub: github.com/sakif445
 
 Email: sakif_hossain@yahoo.com
 
