@@ -13,8 +13,10 @@ This is a repository to showcase skills, share projects, and track my progress i
   
 - [Portfolio Projects](#portfolio-projects)
   
-  - ■ [Optimizing Customer Segmentation and Revenue Growth Using RFM Analysis and Tableau Dashboards](#optimizing-customer-segmentation-and-revenue-growth-using-rfm-analysis-and-tableau-dashboards)  
-  - ■ [Driving Sales Growth Through Data Insights and Strategic Analysis](#driving-sales-growth-through-data-insights-and-strategic-analysis)
+<ul style="list-style: none; padding-left: 15px;">
+    <li>&#x25A0; <a href="#optimizing-customer-segmentation-and-revenue-growth-using-rfm-analysis-and-tableau-dashboards">Optimizing Customer Segmentation and Revenue Growth Using RFM Analysis and Tableau Dashboards</a></li>
+    <li>&#x25A0; <a href="#driving-sales-growth-through-data-insights-and-strategic-analysis">Driving Sales Growth Through Data Insights and Strategic Analysis</a></li>
+  </ul>
 
 - [Education](#education)
   
