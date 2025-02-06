@@ -10,10 +10,15 @@ This is a repository to showcase skills, share projects, and track my progress i
 
 ## 📑 Table of Contents
 - [About](#about)
+  
 - [Portfolio Projects](#portfolio-projects)
+  
   - [Optimizing Customer Segmentation and Revenue Growth Using RFM Analysis and Tableau Dashboards](#optimizing-customer-segmentation-and-revenue-growth-using-rfm-analysis-and-tableau-dashboards)
+  - [Driving Sales Growth Through Data Insights and Strategic Analysis](#Driving-Sales-Growth-Through-Data-Insights-and-Strategic-Analysis)
 - [Education](#education)
+  
 - [Certificates](#certificates)
+  
 - [Contact](#contact)
 
 
