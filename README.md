@@ -13,8 +13,8 @@ This is a repository to showcase skills, share projects, and track my progress i
 ## 📑 Table of Contents
 - [About](#about)
 - [Portfolio Projects](#portfolio-projects)
-  - [Optimizing Customer Segmentation and Revenue Growth Using RFM Analysis and Tableau Dashboards](#optimizing-customer-segmentation-and-revenue-growth-using-rfm-analysis-and-tableau-dashboards)  
-  - [Driving Sales Growth Through Data Insights and Strategic Analysis](#driving-sales-growth-through-data-insights-and-strategic-analysis)
+  - [Optimizing Customer Segmentation and Revenue Growth](#optimizing-customer-segmentation)  
+  - [Driving Sales Growth Through Data Insights](#driving-sales-growth)
   - [Machine Learning Projects](#machine-Learning-Projects)
   - [Power BI Projects](#power-bi-projects)
 - [Education](#education)
@@ -25,7 +25,7 @@ This is a repository to showcase skills, share projects, and track my progress i
 
 In this section, I will list data analytics projects briefly describing the technology stack used to solve cases.
 
-### <a id="Optimizing-Customer-Segmentation-and-Revenue-Growth-Using-RFM-Analysis-and-Tableau-Dashboards"></a>**Optimizing Customer Segmentation and Revenue Growth Using RFM Analysis and Tableau Dashboards** 📊
+## <a id="optimizing-customer-segmentation"></a>**Optimizing Customer Segmentation and Revenue Growth Using RFM Analysis and Tableau Dashboards** 📊
 
 **Code**: [Data_Analytics_Consulting_Virtual_Internship.ipynb](https://github.com/sakif445/Project-Kpmg/blob/main/Project%20kpmg/data%20clean%20and%20analysis.ipynb)  
 **Tableau Dashboard**: [Dashboard](https://github.com/sakif445/Project-Kpmg/blob/main/Project%20kpmg/Dashboard.twb)  
