@@ -2,9 +2,9 @@
 
 ### **About**
 
-With over two years of experience as a Data Analyst, I excel at transforming complex data into actionable business insights through Power BI and SQL. Skilled in data analysis, cleansing, and reporting, I am proficient in Power BI, MS Excel, and Python. Holding certifications as a Power BI Data
-Analyst Associate and in SQL & Relational Databases (IBM), I collaborate seamlessly with crossfunctional teams to develop data-driven solutions. Recognized for my strong analytical mindset, problem-solving abilities, and commitment to continuous learning, I strive to enhance team efficiency 
-and drive impactful decision-making.
+With over two years of experience as a Data Analyst, I excel at transforming complex data into actionable business insights through Power BI and SQL. Skilled in data analysis, cleansing, and reporting, I am proficient in Power BI, MS Excel, and Python. Holding certifications as a Power BI Data Analyst Associate and in SQL & Relational Databases (IBM), I collaborate seamlessly with crossfunctional teams to develop data-driven solutions. Recognized for my strong analytical mindset, problem-solving abilities, and commitment to continuous learning, I strive to enhance team efficiency and drive impactful decision-making.I have an analytical background in International Business with Data Analytics. I have developed a strong foundation in data analysis and a passion for using data to uncover meaningful insights. I am excited to bring my technical and analytical skills to the field of data analytics as an entry-level data specialist.
+
+During my studies and work experience, I honed my ability to work with complex data and developed a keen eye for identifying patterns and trends. I also gained experience in data management, statistical analysis, and business development, which I believe will be valuable assets in my role as a data specialist.
 
 My CV in [pdf](https://github.com/sakif445/Data-Analysis-Portfolio/blob/main/MD%20SAKIF%20HOSSAIN%20CV.pdf).
 
