@@ -27,11 +27,11 @@ In this section, I will list data analytics projects briefly describing the tech
 
 ## **Optimizing Customer Segmentation and Revenue Growth Using RFM Analysis and Tableau Dashboards**
 
-**Code**: [Data_Analytics_Consulting_Virtual_Internship.ipynb](https://github.com/sakif445/Project-Kpmg/blob/main/Project%20kpmg/data%20clean%20and%20analysis.ipynb)
-**Tableau Dashboard**: [Dashboard](https://github.com/sakif445/Project-Kpmg/blob/main/Project%20kpmg/Dashboard.twb)
-**Description**: Cleaned over 10,000 data entries using Python, ensuring data quality. Performed RFM analysis on 50,000+ transactions for customer segmentation and extracted insights for strategic decision-making.
-**Skills**: Data cleaning, customer segmentation, RFM analysis, data visualization.
-**Technology**: Python, Pandas, Tableau.
+**Code**: [Data_Analytics_Consulting_Virtual_Internship.ipynb](https://github.com/sakif445/Project-Kpmg/blob/main/Project%20kpmg/data%20clean%20and%20analysis.ipynb)  
+**Tableau Dashboard**: [Dashboard](https://github.com/sakif445/Project-Kpmg/blob/main/Project%20kpmg/Dashboard.twb)  
+**Description**: Cleaned over 10,000 data entries using Python, ensuring data quality. Performed RFM analysis on 50,000+ transactions for customer segmentation and extracted insights for strategic decision-making.  
+**Skills**: Data cleaning, customer segmentation, RFM analysis, data visualization.  
+**Technology**: Python, Pandas, Tableau.  
 
 ## **Driving Sales Growth Through Data Insights and Strategic Analysis**
 
