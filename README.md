@@ -76,6 +76,8 @@ This repository showcases a collection of impactful machine learning projects th
 **Key Impact**: Showcases how machine learning enhances weather forecasting accuracy, crucial for industries like agriculture and logistics.
 
 #### **Wine Quality Prediction**
+
+**Code**: [Wine Quality Prediction.ipynb](https://github.com/sakif445/Machine-Learning-Project/blob/main/Wine%20Quality%20Prediction.ipynb)
 **Objective**: Predict wine quality based on chemical properties.  
 **Algorithm**: XGBoost  
 **Initial Accuracy**: 76.8%  
@@ -83,6 +85,8 @@ This repository showcases a collection of impactful machine learning projects th
 **Key Impact**: Illustrates predictive modeling in the food and beverage industry, enhancing quality assessment.  
 
 #### **Predicting Stock Prices**
+
+**Code**: [SP.ipynb](https://github.com/sakif445/Machine-Learning-Project/blob/main/SP.ipynb)
 **Objective**: Forecast stock prices with minimal error for better financial decision-making.  
 **Algorithm**: XGBoost  
 **Evaluation Metrics**:  
