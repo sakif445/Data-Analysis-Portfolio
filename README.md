@@ -35,10 +35,10 @@ In this section, I will list data analytics projects briefly describing the tech
 
 ## **Driving Sales Growth Through Data Insights and Strategic Analysis**
 
-**Microsoft Power BI**: [Dashboard](https://github.com/sakif445/Project-walmart/blob/main/Project%20walmart/Dashboard%20Walmart%20Project.pbix)
-**Description**: Retrieved over 25,000 records across 10 tables using SQL, ensuring data quality by preprocessing and removing duplicates. Designed and developed interactive Power BI dashboards featuring 20+ visualisations for effective communication of KPIs.
-**Skills**: SQL queries, data cleaning, data visualization.
-**Technology**: SQL Server, Excel, Power BI.
+**Microsoft Power BI**: [Dashboard](https://github.com/sakif445/Project-walmart/blob/main/Project%20walmart/Dashboard%20Walmart%20Project.pbix)  
+**Description**: Retrieved over 25,000 records across 10 tables using SQL, ensuring data quality by preprocessing and removing duplicates. Designed and developed interactive Power BI dashboards featuring 20+ visualizations for effective communication of KPIs.  
+**Skills**: SQL queries, data cleaning, data visualization.  
+**Technology**: SQL Server, Excel, Power BI.  
 
 ## <a id="machine-learning-projects"></a>**Machine Learning Projects** 🚀
 
