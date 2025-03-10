@@ -88,7 +88,7 @@ This repository showcases a collection of impactful machine learning projects th
 - Root Mean Squared Error (RMSE): 0.469  
 **Key Impact**: Highlights how AI-driven stock price prediction supports investment strategies and financial forecasting.  
 
-## **Power BI Projects** 📊
+## <a id="power-bi-projects"></a>**Power BI Projects** 📊
 
 Welcome to my Power BI portfolio! This repository showcases interactive dashboards designed to analyze and visualize key business metrics using Power BI.
 
