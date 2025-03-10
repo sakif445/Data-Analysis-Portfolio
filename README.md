@@ -93,10 +93,12 @@ Welcome to my Power BI portfolio! This repository showcases interactive dashboar
 
 ### 🚀 Projects
 
-#### 🛒 **Store Sales Dashboard**
+#### 🛒 **Store Sales Dashboard**  
 
-**Microsoft Power BI**: [Store Sales Dashboard](https://github.com/sakif445/Power-BI-Project/blob/main/Store%20Sales%20Dashboard.pbix)
-**Overview**: This dashboard provides insights into store sales performance, helping businesses identify trends, optimize sales strategies, and improve decision-making.  
+**Microsoft Power BI**: [Store Sales Dashboard](https://github.com/sakif445/Power-BI-Project/blob/main/Store%20Sales%20Dashboard.pbix)  
+
+**Overview**:  
+This dashboard provides insights into store sales performance, helping businesses identify trends, optimize sales strategies, and improve decision-making.  
 
 **Key Features**:  
 - **Data Cleaning**: Handled missing values, removed duplicates, and standardized data formats for accuracy.  
@@ -106,10 +108,14 @@ Welcome to my Power BI portfolio! This repository showcases interactive dashboar
 **Technologies Used**:  
 Power BI, Power Query, DAX (Data Analysis Expressions)  
 
-#### 📦 **Supply Chain Dashboard**
+---  
 
-**Microsoft Power BI**: [Supply Chain Dashboard](https://github.com/sakif445/Power-BI-Project/blob/main/Supply%20Chain%20Dashboard.pbix)
-**Overview**: This dashboard optimizes supply chain operations by analyzing delivery efficiency and identifying bottlenecks in the process.  
+#### 📦 **Supply Chain Dashboard**  
+
+**Microsoft Power BI**: [Supply Chain Dashboard](https://github.com/sakif445/Power-BI-Project/blob/main/Supply%20Chain%20Dashboard.pbix)  
+
+**Overview**:  
+This dashboard optimizes supply chain operations by analyzing delivery efficiency and identifying bottlenecks in the process.  
 
 **Key Features**:  
 - **Data Visualization**: Used Gantt charts, heat maps, and stacked bar charts for effective tracking.  
