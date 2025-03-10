@@ -28,23 +28,16 @@ In this section, I will list data analytics projects briefly describing the tech
 ## **Optimizing Customer Segmentation and Revenue Growth Using RFM Analysis and Tableau Dashboards**
 
 **Code**: [Data_Analytics_Consulting_Virtual_Internship.ipynb](https://github.com/sakif445/Project-Kpmg/blob/main/Project%20kpmg/data%20clean%20and%20analysis.ipynb)
-
 **Tableau Dashboard**: [Dashboard](https://github.com/sakif445/Project-Kpmg/blob/main/Project%20kpmg/Dashboard.twb)
-
 **Description**: Cleaned over 10,000 data entries using Python, ensuring data quality. Performed RFM analysis on 50,000+ transactions for customer segmentation and extracted insights for strategic decision-making.
-
 **Skills**: Data cleaning, customer segmentation, RFM analysis, data visualization.
-
 **Technology**: Python, Pandas, Tableau.
 
 ## **Driving Sales Growth Through Data Insights and Strategic Analysis**
 
 **Microsoft Power BI**: [Dashboard](https://github.com/sakif445/Project-walmart/blob/main/Project%20walmart/Dashboard%20Walmart%20Project.pbix)
-
 **Description**: Retrieved over 25,000 records across 10 tables using SQL, ensuring data quality by preprocessing and removing duplicates. Designed and developed interactive Power BI dashboards featuring 20+ visualisations for effective communication of KPIs.
-
 **Skills**: SQL queries, data cleaning, data visualization.
-
 **Technology**: SQL Server, Excel, Power BI.
 
 ## <a id="machine-learning-projects"></a>**Machine Learning Projects** 🚀
@@ -101,6 +94,8 @@ Welcome to my Power BI portfolio! This repository showcases interactive dashboar
 ### 🚀 Projects
 
 #### 🛒 **Store Sales Dashboard**
+
+**Microsoft Power BI**: [Store Sales Dashboard](https://github.com/sakif445/Power-BI-Project/blob/main/Store%20Sales%20Dashboard.pbix)
 **Overview**: This dashboard provides insights into store sales performance, helping businesses identify trends, optimize sales strategies, and improve decision-making.  
 
 **Key Features**:  
@@ -112,6 +107,8 @@ Welcome to my Power BI portfolio! This repository showcases interactive dashboar
 Power BI, Power Query, DAX (Data Analysis Expressions)  
 
 #### 📦 **Supply Chain Dashboard**
+
+**Microsoft Power BI**: [Supply Chain Dashboard](https://github.com/sakif445/Power-BI-Project/blob/main/Supply%20Chain%20Dashboard.pbix)
 **Overview**: This dashboard optimizes supply chain operations by analyzing delivery efficiency and identifying bottlenecks in the process.  
 
 **Key Features**:  
