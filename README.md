@@ -68,6 +68,7 @@ This repository showcases a collection of impactful machine learning projects th
 **Key Impact**: Demonstrates data-driven marketing insights and model optimization for business growth.  
 
 #### **Weather Prediction**
+**Code**: [Weather_prediction.ipynb](https://github.com/sakif445/Machine-Learning-Project/blob/main/Weather_prediction.ipynb)
 **Objective**: Forecast weather conditions using historical data.  
 **Algorithm**: XGBoost  
 **Initial Accuracy**: 76.8%  
