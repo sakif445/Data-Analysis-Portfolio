@@ -47,7 +47,7 @@ In this section, I will list data analytics projects briefly describing the tech
 
 **Technology**: SQL Server, Excel, Power BI.
 
-## **Machine Learning Projects** 
+## <a id="machine-learning-projects"></a>**Machine Learning Projects** 🚀
 
 This repository showcases a collection of impactful machine learning projects that demonstrate data-driven decision-making, predictive analytics, and model optimization using XGBoost. Each project highlights my expertise in data preprocessing, model training, hyperparameter tuning with Grid Search CV, and performance evaluation—critical skills for driving business success.
 
