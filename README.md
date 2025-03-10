@@ -75,7 +75,6 @@ This repository showcases a collection of impactful machine learning projects th
 #### **Weather Prediction**
 **Code**: [Weather_prediction.ipynb](https://github.com/sakif445/Machine-Learning-Project/blob/main/Weather_prediction.ipynb)  
 **Objective**: Forecast weather conditions using historical data.  
-
 **Algorithm**: XGBoost  
 **Initial Accuracy**: 76.8%  
 **Optimized Accuracy**: 80.9% (using Grid Search CV)  
