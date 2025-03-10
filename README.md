@@ -61,15 +61,10 @@ This repository showcases a collection of impactful machine learning projects th
 
 #### **Marketing Analysis**
 **Code**: [marketing analysis.ipynb](https://github.com/sakif445/Machine-Learning-Project/blob/main/marketing%20analysis.ipynb)
-
 **Objective**: Predict customer responses and analyze market trends.  
-
 **Algorithm**: XGBoost  
-
 **Initial Accuracy**: 83%
-
 **Optimized Accuracy**: 88% (using Grid Search CV)  
-
 **Key Impact**: Demonstrates data-driven marketing insights and model optimization for business growth.  
 
 #### **Weather Prediction**
