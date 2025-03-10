@@ -25,7 +25,7 @@ This is a repository to showcase skills, share projects, and track my progress i
 
 In this section, I will list data analytics projects briefly describing the technology stack used to solve cases.
 
-## **Optimizing Customer Segmentation and Revenue Growth Using RFM Analysis and Tableau Dashboards**
+### <a id="optimizing-customer-segmentation"></a>**Optimizing Customer Segmentation and Revenue Growth Using RFM Analysis and Tableau Dashboards** 📊
 
 **Code**: [Data_Analytics_Consulting_Virtual_Internship.ipynb](https://github.com/sakif445/Project-Kpmg/blob/main/Project%20kpmg/data%20clean%20and%20analysis.ipynb)  
 **Tableau Dashboard**: [Dashboard](https://github.com/sakif445/Project-Kpmg/blob/main/Project%20kpmg/Dashboard.twb)  
@@ -33,7 +33,7 @@ In this section, I will list data analytics projects briefly describing the tech
 **Skills**: Data cleaning, customer segmentation, RFM analysis, data visualization.  
 **Technology**: Python, Pandas, Tableau.  
 
-## **Driving Sales Growth Through Data Insights and Strategic Analysis**
+## <a id="driving-sales-growth"></a>**Driving Sales Growth Through Data Insights and Strategic Analysis** 📈  
 
 **Microsoft Power BI**: [Dashboard](https://github.com/sakif445/Project-walmart/blob/main/Project%20walmart/Dashboard%20Walmart%20Project.pbix)  
 **Description**: Retrieved over 25,000 records across 10 tables using SQL, ensuring data quality by preprocessing and removing duplicates. Designed and developed interactive Power BI dashboards featuring 20+ visualizations for effective communication of KPIs.  
