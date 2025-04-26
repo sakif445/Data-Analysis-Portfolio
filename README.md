@@ -132,9 +132,9 @@ Bachelor of Business Administration (BBA) - Independent University, Bangladesh (
 
 ## **Certificates**
 
-[Google Data Analytics Professional Certificate – Google (May 2024)](https://www.coursera.org/account/accomplishments/specialization/HQ8DL679LKRL)
+[Google Data Analytics Professional Certificate – Google](https://www.coursera.org/account/accomplishments/specialization/HQ8DL679LKRL)
 
-[Data Analytics Consulting Virtual Internship – Forage (October 2023)](https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/KPMG%20AU/m7W4GMqeT3bh9Nb2c_KPMG%20AU_eoxi3rvsEs8oDvnDA_1696992419807_completion_certificate.pdf)
+[Data Analytics Consulting Virtual Internship – Forage](https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/KPMG%20AU/m7W4GMqeT3bh9Nb2c_KPMG%20AU_eoxi3rvsEs8oDvnDA_1696992419807_completion_certificate.pdf)
 
 [Data Standardisation - Health Data Research UK (HDR UK)](https://home.hdruklearn.org/certificates/025d47dbe43741f3a38d9ca1d8b64d71)
 
