@@ -138,6 +138,10 @@ Bachelor of Business Administration (BBA) - Independent University, Bangladesh (
 
 [Data Standardisation - Health Data Research UK (HDR UK)](https://home.hdruklearn.org/certificates/025d47dbe43741f3a38d9ca1d8b64d71)
 
+[Health Information Engineering - Health Data Research UK (HDR UK)](https://home.hdruklearn.org/certificates/6b79ae139473406eaa9f8ec865ebde14)
+
+[GDPR Foundations - Measured Collective](https://measuredcollective.com/certificate-gdpr-foundations/?studentName=U2FraWYgSG9zc2Fpbg%3D%3D&date=MjAyNS0wNC0zMFQyMDozNTowNS45ODRa)
+
 ## **Contact**
 
 LinkedIn: [Sakif Hossain](https://www.linkedin.com/in/sakif-hossain-b4610495/)
